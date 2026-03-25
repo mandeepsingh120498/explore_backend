@@ -1,0 +1,25 @@
+{
+  "name": "explore_backend",
+  "version": "1.0.0",
+  "description": "Exploring backend in Node.JS",
+  "homepage": "https://github.com/mandeepsingh120498/explore_backend#readme",
+  "bugs": {
+    "url": "https://github.com/mandeepsingh120498/explore_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandeepsingh120498/explore_backend.git"
+  },
+  "license": "ISC",
+  "author": "Mandeep Singh",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.14"
+  }
+}
